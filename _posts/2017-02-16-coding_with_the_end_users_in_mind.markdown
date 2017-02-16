@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coding with the End Users in Mind"
-date:   2017-02-16 01:26:33 +0000
+date:   2017-02-15 20:26:34 -0500
 ---
 
 
