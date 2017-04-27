@@ -1,7 +1,7 @@
 # Site settings
 title: Coding Blog
 header-img: img/home-bg.png
-email: dison.ruan@yahoo.com
+email: ruandisheng@gmail.com
 copyright_name: fattyduck
 description: > # this means to ignore newlines until "baseurl:"
   Learning to Code at Flatiron School
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  fattyduck
 learn_profile: fattyduck
-email_username: dison.ruan@yahoo.com
+email_username: ruandisheng@gmail.com
 
 # Build settings
 markdown: kramdown
